@@ -1,6 +1,6 @@
 # BINF_test
 
-Here is the code for the test, both in python and R format. 
+Here is a sample code, both in python and R format. 
 
 The python part is complete by ipynb style. it contans task 1 to 4 with bonus question.
 
