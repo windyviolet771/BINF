@@ -1,4 +1,4 @@
-# BINF_test
+# BINF
 
 Here is a sample code, both in python and R format. 
 
